@@ -1,2 +1,4 @@
 # Overview
-Project to implement a Poisson Solver on a GPU
+Solve 1D Poisson's equation on a GPU
+
+GPU: GeForce GTX 960
